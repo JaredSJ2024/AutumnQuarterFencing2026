@@ -235,19 +235,19 @@
     </td>
 </tr>
 
-<!-- Two photos: Foil + Oscar -->
+<!-- Two photos: Foil + Ugonna-->
 <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td align="center" style="padding:6px 0;"> <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="max-width:520px; width:100%; margin:0 auto;">
             <tr>
 
-        <!-- Photo 1: Team Photo-->
+        <!-- Photo 1: Foil Team Photo-->
         <td width="33%" valign="top" style="padding:6px;">
     <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
            style="border:1px solid #800000;">
         <tr>
             <td>
-                <img src="https://raw.githubusercontent.com/JaredSJ2024/Spring2026/main/IMG_5762.JPG"
+                <img src="https://raw.githubusercontent.com/JaredSJ2024/Spring2026/main/IMG_1225.jpeg"
                      alt="Foil Success"
                      style="display:block; width:100%; max-width:100%, height:auto; border:0; outline:none;">
             </td>
@@ -263,7 +263,7 @@
     </table>
 </td>
 
-        <!-- Photo 2: Oscar Chen -->
+        <!-- Photo 2: Ugonna Egbuchulam -->
         <td width="33%" valign="top" style="padding:6px;">
             <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
                    style="border:1px solid #800000;">
@@ -278,7 +278,7 @@
                     <td style="background-color:#f7f7f7; padding:6px 8px; border-top:1px solid #800000;">
                         <div style="font-family:Garamond, Georgia, 'Times New Roman', Times, serif;
                                     font-size:14px; color:#000000; text-align:center;">
-                            Oscar Chen's Endurance
+                            Ugonna Egbuchulam's grit
                         </div>
                     </td>
                 </tr>
@@ -290,7 +290,7 @@
 </tr>
             
 
-<!-- MFC 2026 Chart -->
+<!-- CFC 2026 Chart -->
 <tr>
   <td style="padding:0 24px 16px 24px;">
     <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
@@ -301,7 +301,7 @@
         <td colspan="4" 
             style="padding:10px 12px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;
                    font-size:20px; color:#ffffff; font-weight:bold; text-align:center;">
-          MFC 2026 Results & Awards
+          CFC 2026 Results & Awards
         </td>
       </tr>
 
@@ -325,69 +325,57 @@
         </td>
       </tr>
 
-      <!-- Men's Individuals -->
+      <!-- Athos Combined -->
+       University of Chicago - 2nd
+
+      <!-- Athos's Individuals -->
       <tr>
         <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;
                    font-size:16px; color:#000000; border-right:1px solid #800000; background-color:#fafafa;">
           Men’s Individuals
         </td>
         <td style="padding:10px; border-right:1px solid #800000; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Oscar Chen – 3rd
+          Oscar Chen - 2nd in Sabre
+          Timothy Lu – 8th in Sabre
+          Harrison Owens - 13th in Sabre
         </td>
         <td style="padding:10px; border-right:1px solid #800000; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Tyler Wang - 6th
-          Benjamin Wu - 9th 
+          Graydon Schulze-Kalt - 9th in Foil
+          Jon Chen - 14th in Foil
+          Adam Katwan - 30th in Foil
         </td>
         <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Adam Katwan – Gold<br>
-          Jon Chen – 7th
+          David Hermanson – 5th in Epée
+          Oliver Shoemaker – 21st in Epée
         </td>
       </tr>
 
-      <!-- Women's Individuals -->
+      <!-- Porthos's Individuals -->
       <tr>
         <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;
                    font-size:16px; color:#000000; border-right:1px solid #800000; background-color:#fafafa;">
-          Women’s Individuals
+          Porthos’s Individuals
         </td>
         <td style="padding:10px; border-right:1px solid #800000; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          —
-        </td>
-        <td style="padding:10px; border-right:1px solid #800000; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Ugonna Egbuchulam – Gold
-        </td>
-        <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Charlotte Landman – Gold<br>
-          Isabelle Lee – 3rd<br>
-          Leslie Xiao – 5th
+          Celine Owens - 18th in Sabre
+          Manuel Arce Guirre - 19th in Sabre
         </td>
       </tr>
 
-      <!-- Men's Teams -->
+      <!-- Athos's Teams -->
       <tr>
         <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;
                    font-size:16px; color:#000000; border-right:1px solid #800000; background-color:#fafafa;">
-          Men’s Teams
+          Athos’s Teams
         </td>
         <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Men's Sabre - 5th   
+          Athos's Team Foil - 3th   
         <td style="padding:10px; border-right:1px solid #800000;">—</td>
         <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Men’s Foil – Gold
+          Athos's Team Epée – 8th
         </td>
-      </tr>
-
-      <!-- Women's Teams -->
-      <tr>
-        <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;
-                   font-size:16px; color:#000000; border-right:1px solid #800000; background-color:#fafafa;">
-          Women’s Teams
-        </td>
-        <td style="padding:10px; border-right:1px solid #800000;">—</td>
         <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Women's Épée - 4th 
-        <td style="padding:10px; font-family:Garamond, Georgia, 'Times New Roman', Times, serif;">
-          Women’s Foil – Silver
+          Athos's Team Sabre – 3th
         </td>
       </tr>
 
@@ -410,8 +398,8 @@
                             <div
                                 style="font-family:Garamond, Georgia, 'Times New Roman', Times, serif; font-size:18px; line-height:1.55; color:#111111;">
                                 We would like to give many thanks to our alumni, friends, family, and the UChicago
-                                Athletics Department for making practice, competetions, and travel possible. If you're new
-                                to the UChicago Fencing Club, welcome!
+                                Athletics Department for making practice, competetions, and travel possible. To the newcomers
+                                welcome and hope to se you at practice!
                             </div>
                         </td>
                     </tr>
